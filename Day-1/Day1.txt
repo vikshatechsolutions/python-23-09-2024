@@ -97,4 +97,5 @@ Day-01[23-09-2024]:
 	> open command prompt and then need to type command such as
 		=> python -m pip install --upgrade pip
 		It will upgrades the pip from lower version to updated version
-	> After upgrading the pip we need to install the jupyter notebook again because the latest packages and libraries will be update to loca system
+	> After upgrading the pip we need to install the jupyter notebook again because the latest packages and libraries will be update to local
+system
