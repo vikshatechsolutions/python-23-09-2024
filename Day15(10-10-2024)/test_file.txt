@@ -1,0 +1,6 @@
+python training
+this is to verify the append method in file handling
+this is to verify the append method in file handling
+first_line
+second_line
+third_line
